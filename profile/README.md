@@ -1,7 +1,8 @@
 ## algolas
 
-👨‍💻🥷 We are specialists for software development and cyber security. Some of our products:
+👨‍💻🥷 We are specialists for software development and AI. Some of our products / services:
 
+- 🦾 [Qestor](https://algolas.com/services/ai): A platform and services of AI applied to business problems
 - 🛰️ [Orbit](https://getorb.it): A cybersecurity cloud that detects and tracks vulnerabilities and exposed services
 - 🕺 [triffmi](https://triffmi.com): An invitation-only activities-based social network for Swiss students
 
